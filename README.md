@@ -53,3 +53,7 @@ The ```DataStreamJob``` class within the ```FlinkCommerce``` package serves as t
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+- Email: hiepgaden@gmail.com
+- Portfolio: (https://hiepphde.github.io/)
