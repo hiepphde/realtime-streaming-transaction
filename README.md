@@ -8,6 +8,8 @@ This repository contains an Apache Flink application for real-time sales analyti
 - [Usage](#Usage)
 - [Application](#Application)
 - [Components](#Components)
+- [Configuration](#Configuration)
+- [License](#License)
 
 ## Requirements
 - Docker
